@@ -12,7 +12,15 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+
+### HOME PAGE:
+![FRAME](./wire1.png)
+
+### GALLERY PAGE:
+![FRAME](./wire2.png)
+
+### ABOUTUS PAGE:
+![FRAME](./wire3.png)
 
 
 ## Result:
